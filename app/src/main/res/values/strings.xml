@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Userdata</string>
+    <string name="new_entry">New Entry</string>
+    <string name="records">Records</string>
+    <string name="back_button">Back button</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="no_user_records_available_yet">No user records available yet</string>
+    <string name="address_placeholder">Address: %1$s</string>
+    <string name="date_of_birth">Date of Birth: %1$s</string>
+    <string name="age_placeholder">Age: %1$s</string>
+</resources>
